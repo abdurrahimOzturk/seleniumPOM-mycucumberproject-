@@ -1,0 +1,10 @@
+/target/
+/.idea/
+*.xml
+*.class
+/testData/
+extend.properties
+/utilities/
+!src/test/java/utilities/TxtWriter.java
+/runners/
+/hooks/
